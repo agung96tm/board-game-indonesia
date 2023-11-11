@@ -1,0 +1,159 @@
+------------------------------------------------------------------------------------------------
+Regicide
+------------------------------------------------------------------------------------------------
+
+Komponen:
+52 dek kartu + 2 joker
+
+Pemain: 1 - 4 orang
+Waktu: 5 - 20 menit
+Umur: 10 tahun keatas
+
+Disain:
+* Paul Abrahams
+* Luke Badger
+* Andy Richdale
+
+Gambar:
+* Sketchgoblin
+
+
+"Korupsi yang mengerikan telah menyebar ke empat kerjaan besar, menggelapkan hati raja, ratu, dan para pelindungnya. Sebagai petualang pemberani kalian harus bekerja sama menggunakan kekuatan spesial dari para juara dan hewan pendamping. Menggulingkan kerjaan yang korup, membersihkan mereka dari kejahatan mereka dan menambahkan mereka ke sisi mu sehingga dapat membawa kehidupan kembali ke tanah itu sekali lagi."
+
+------------------------------------------------------------------------------------------------
+Tujuan dari permainan
+------------------------------------------------------------------------------------------------
+
+Regicide adalah permainan cooperative dimana pemain bekerjasama untuk mengalahkan 12 musuh yang kuat. Pemain mengambil giliran memainkan kartu untuk menyerang musuh dan setelah cukup memberikan serangan, musuh akan kalah. Para pemain menang ketika raja terakhir dikalahkan. Tapi berhati-hatilah! Setip giliran musuh akan menyerang kembali. Pemain akan membuang kartu untuk memenuhi serangannya dan jika pemain tidak dapat membuang cukup kartu, semua orang kalah!
+
+
+Persiapan
+
+Kocok 4 raja (K) dan taruh menghadap kebawah. Kocok 4 ratu (Q) dan taruh menghadap kebawah diatas kartu raja. Kocok 4 jack (J) dan taruh menghadap kebawah diatas kartu ratu. Ini adalah tumpukan dari dek castle.
+Taruh dek castle di tengah-tengah dan balikan kartu teratas menghadap ke atas untuk menampilkan kartu Jack. Kartu tersebut akan menjadi musuh sekarang.
+
+Kocok semua kartu dengan nomor 2 sampai 10 dengan 4 hewan pendamping (A) dan beberapa kartu joker (J) berdasarkan jumlah dari pemain (lihat list-nya di bawah) untuk membentuk dek tavern.
+Dek Tavern adalah dek asal diamana kartu-kartu dibagikan dan diambil. 
+
+Selama permainan, taruh kartu yang dibuang ke sebuah tumpukan dek discard bersebelahan dengan dek tavern.
+
+Bagikan kartu ke setiap pemain berdasarkan maksimum kartu ditangan
+
+Pemain		Joker		Maks. Kartu ditangan
+1		0		8
+2		0		7
+3		1		6
+4		2		5
+
+Pemain yang paling berkomitmen membunuh raja jalan duluan.
+
+
+Cara Bermain
+Dalam giliran, pemain akan memainkan kartu dari tangan mereka untuk memberikan serangan ke musuh untuk mengalahkannya. Angka di kartu menentukan serangan, sementara jenis kartu memberikan sebuah kekuatan spesial.
+
+Setiap giliran terdapat 4 langkah:
+Langkah 1: Mainkan kartu atau menyerah
+Langkah 2: Mengaktifkan kekuatan spesial dari kartu
+Langkah 3: Memberikan serangan ke musuh
+Langkah 4: Menerima serangkan dari musuh
+
+
+1. Langkah 1
+Memainkan kartu untuk menyerang musuh
+
+Memainkan sebuah kartu dari tanganmu dan taruh di meja menghadap ke depan. Angka dari kartu menentukan jumlah serangkan. Misal 7 hati dimainkan, serangan yang diberikan adalah 7. Selain memainkan sebuah kartu, pemain dapat memilih untuk menyerah (lihat bagian menyerah).
+
+2. Langkah 2
+Mengaktifkan kekuatan spesial dari kartu
+
+Memainkan sebuah kartu untuk memberikan serangan ke musuh juga memberikan sebuah kekuatan spesial sesuai dengan jenis kartu-nya. Kekuatan dari kartu berwarna merah langsung diaktifkan, sedangkan kartu berwarna hitam akan memberikan efek di langkah selanjut-nya.
+
+
+Hati (Hearts)
+Menyembukan kartu yang dibuang: Kocok kartu dari dek discard dan hitung jumlah kartu menghadap kebawah sesuai dengan serangan yang diberikan ke musuh. Taruh kartu tersebut dibawah dek Tavern (jangan mengintip!), balikan kembali dek discard menghadap ke atas.
+
+Wajik (Diamonds)
+Mengambil kartu: pemain yang aktif mengambil sebuah kartu. Pemain lain mengikuti-nya searah jarum jam berurutan mengambil satu kartu sampai jumlah kartu sesuai dengan jumlah serangan yang diberikan ke musuh. Pemain yang sudah mencapai jumlah maksimum kartu ditangan dilewati. Pemain tidak boleh mengambil kartu melebihi batas dari maksimum kartu di tangan. Tidak ada hukuman bila tidak mengambil kartu dari dek Tavern jika dek-nya kosong.
+
+Keriting (Clubs)
+Serangkan Double (Ganda): Selama Langkah ke tiga, serangan dari kartu keriting akan digandakan. Misal, 8 keriting akan memberikan serangan 16.
+
+Sekop (Spades)
+Perisai terhadap serangan musuh (mengurangi serangan): Selama Langkah ke empat, kurangi serangan musuh berdasarkan serangan yang telah dimainkan. efek dari perisai adalah kumulatif untuk semua sekop yang telah dimainkan untuk melawan musuh dari pemain manapun, dan tetap berlaku sampai musuh dikalahkan.
+
+Kekuatan dari kartu adalah mandatori dan tidak bisa di abaikan.
+
+3. Langkah 3
+Memberikan serangan dan memeriksa apakah musuh sudah dikalahkan
+
+Enemy		Serangan		Darah
+Jack		10			20
+Queen		15			30
+King		20			40
+
+Memberikan serangan sesuai dengan angka di kartu. Periksa untuk melihat jika total serangan yang diberikan semua pemain sejauh ini sesuai dengan atau lebih besar dari darah musuh. Contoh, jika menghadapi Jack dan satu orang pemain memberikan 9 serangan dalam gilirannya, lalu pemain lain memberikan serangan 12, total dari serangan sekarang akan menjadi 21 dan akhirnya musuh dapat dikalahkan.
+
+Jika musuh dapat dikalahkan, lakukan hal berikut:
+(i) taruh kartu musuh di dek discard. Tapi, Jika para pemain berhasil memberikan serangan sesuai dengan darah musuh, taruh kartu musuh tersebut dalam dek tavern
+(ii) taruh semua kartu yang telah dimainkan oleh para pemain untuk mengalahkan musuh ke dek discard.
+(iii) balikan kartu selanjutnya dari dek castle menghadap ke atas.
+(iv) pemain yang berhasil mengalahkan musuh mengabaikan langkah 4 dan mulai melawan musuh baru yang baru saja terbuka, dan memulai langkah i
+
+4. Langkah 4
+Menerima serangan dari musuh dengan cara membuang kartu
+
+Jika tidak dapat dikalahkan, musuh akan menyerang pemain aktif dengan memberikan serangan sesuai attack musuh. Ingat untuk mengurangi serangan musuh dengan menjumlahkan total dari angka kartu sekop yang para pemain sudah mainkan untuk melawan musuh.
+
+Pemain aktif harus membuang kartu dari tangan-nya sesuai dengan jumlah serangan paling tidak sesuai dengan attack musuh. Buang kartu dan menghadap ke atas ke dek discard. Hewan pendamping (A) mempunyai nilai 1 dan Joker adalah 0 ketika dibuang untuk menutupi serangan musuh. Jika pemain tidak dapat membuang cukup kartu untuk menerima serangan musuh, dia kalah dan semua pemain kalah dalam permainan. Tidak masalah jika pemain tidak memiliki kartu.
+
+Setelah menerima serangan, pemain selanjutnya searah jarum jam memulai giliran, dan memulai kembali langkah 1
+
+
+-- Hewan Pendamping --
+
+Dalam langkah 1, Hewan pendamping bisa dimainkan secara sendiri, atau bisa juga di pasangkan dengan kartu lain (kecuali joker). Hewan pendamping dihitung 1 untuk total serangan dan serangan spesialnya juga bisa digunakan. Untuk contoh, ketika memainkan 8 wajik dengan Hewan pendamping keriting hasil dari serangan adalah 9 dan efek dari serangan spesial dari kedua kartu dapat digunakan adalah 9. 9 kartu ditarik dan 18 serangan dilancarkan. Kapan pun kartu hati dan wajik dimainkan bersama, aktifkan efek pengembuhkan kartu hati terlebih dahulu sebelum mengambil kartu dari efek wajik. Hewan pendamping bisa juga dipasangkan dengan hewan pendamping lain. Jika kamu memainkan hewan pendamping dengan tipe kartu yang sama, kamu hanya bisa menggunakan satu kali kemampuan spesialnya.
+
+-- Kombo --
+Dalam langkah 1, Selain bermain dengan satu kartu, para pemain dapat menggabungkan 2, 3, atau 4 kartu dengan angka yang sama selama total kombinasi angkanya kurang dari atau sama dengan 10. Hewan pendamping tidak bisa ditambahkan kedalam kombo atau dimainkan sebagai kombo dari kartu hewan pendamping; Hewan pendamping hanya bisa digunakan untuk dipasangkan dengan kartu lain (yang mana bisa saja kartu hewan pendamping). Jadinya pemain hanya bisa memasangkan dua kartu: 2, 3, atau 5, tiga kartu: 2 dan 3, atau 4 kartu: 2. Ketika kartu tersebut dimainkan bersama semua efek spesial kartu di aktifkan sesuai dengan total serangan. Sebagai contoh, jika seorang memainkan 3 wajik, sekop, dan kriting bersama, maka pemain akan menarik 9 kartu, mengurangi serangan lawan menjadi 9 dan total serangan menjadi 18. Kapanpun kartu hati dan wajik dimainkan, lakukan healing terlebih dahulu sebelum mengambil kartu.
+
+-- Musuh Kebal --
+Setiap musuh kebal terhadap kartu yang dimainkan dengan tipe yang sama dengan mereka. Sebagai contoh, para pemain tidak dapat menarik kartu ketika wajik dimainkan melawan joker dengan tipe wajik (walaupun begitu angka dari kartu tetap dihitung sebagai total serangan). Joker dapat dimainkan untuk menggagalkan imunitas musuh.
+
+Musuh kebal terhadap tipe kartu mereka.
+(kartu sekop tidak dapat mengurangi serangan jack sekop)
+
+-- Memainkan Joker --
+Dalam langkah 1 ketika memainkan kartu, joker dapat dimainkan (tidak dapat dipasangkan).
+Kartu joker mempunyai serangan 0. Kekuatan dari joker adalah menghilangkan kekebalan musuh dengan artian kartu dengan tipe yang sama dengan musuh sekarang dapat memberikan efek ke musuh. Setelah memainkan joker, abaikan tahap 3 dan 4, dan pemain yang memainkan joker dapat memilih pemain yang akan jalan.
+
+
+-- Menyerah --
+Selama langkah 1, mungkin menyerah memiliki keuntungan ketimbang memainkan sebuah kartu. Untuk menyerah katakan "Menyerah" dan secara langsung menuju ke langkah 4 (Menderita serangan dari musuh), mengabaikan tahap 2 dan 3. Pemain tidak boleh menyerah jika setiap pemain lain sudah menyerah di akhir giliran. Sebagai contoh, jika ada 3 pemain, jika 2 pemain sudah menyerah dalam giliran pemain ke 3, pemain tidak boleh menyerah.
+
+-- Komunikasi --
+Pemain tidak boleh berkomunikasi dengan pemain lainnya, informasi apapun yang mengungkapkan atau menyarankan isi dari kartu ditangan mereka. Mereka boleh mengingatkan pemain lainnya berisi informasi publik seperti berapa banyak kartu yang mereka miliki di tangan. Sebagai contoh komunikasi yang dibolehkan: "Aku punya 2 kartu ditangan" atau "Kita hanya punya 3 kartu tersisa di dek Tavern!". Beberapa contoh komunkasi yang dilarang:"aku mempunyai 10 keriting" atau "Aku harap seseorang memainkan kartu wajik segera!" atau "Jika kamu memainkan kartu hati, mungkin aku dapat menolong kita mendapatkan beberapa kartu di tangan" atau "Jangan kalahkan musuh, serahkan padaku!"
+
+Khusus Joker, Sesudah Joker dimainkan batasan komunkasi antar pemain sementara berubah. Pemain lain yang ditunjuk untuk memulai permainan boleh mengekspresikan keinginan mereka (ataupun menolak) untuk bermain. Sebagai contoh, kamu bisa berbicara "Aku punya firasat bagus untuk bermain" atau "Lebih baik jangan aku yang main selanjutnya". Kamu tetap tidak boleh mengungkapkan kartu di tanganmu.
+
+-- Permainan Berakhir --
+Permainan berakhir ketika para pemain menang dengan mengalahkan raja terakhir atau ketika para pemain kalah karena seorang pemain tidak dapat menahan serangan musuh. Para pemain juga kalah jika ada pemain yang tidak dapat memainkan kartu atau menyerah di gilirannya.
+
+-- Bermain Sendiri (Solo) --
+Ketika bermain dengan hanya satu orang ikuti aturan berikut:
+
+Memulai permainan seperti biasa tapi tempatkan dua kartu joker disamping. Kamu memainkan kartu 8 kartu. Bermain seperti umumnya, bermain bergantian satu demi satu. Joker bisa dibalikan untuk mengaktifkan efek berikut: "Membuang semua kartu ditangan dan ambil 8 kartu baru - tidak dihitung sebagai tujuan mengabaikan efek dari kartu wajik lawan"
+
+Semenjak kamu mempunyai 2 kartu joker ini bisa berlangung dalam 2 kali per permainan. Membalikan joker tidak dihitung sebagai menggagalkan efek kebal dari kartu musuh. Kamu masih dibolehkan untuk menggunakan efek joker ketika a) memulai langkah 1 sebelum memainkan kartu atau b) memulai tahap 4 sebelum kamu menerima serangan musuh.
+
+
+Menang dengan menggunakan 2 joker: Bronze (Perunggu) Victory
+Menang dengan menggunakan 1 joker: Silver (Perak) Victory
+Menang dengan menggunakan 0 joker: Gold (Emas) Victory
+
+
+------------------------------------------------------------------------------------------------
+Application
+------------------------------------------------------------------------------------------------
+Unduh Gratis Aplikasi "Regicide Companion"
+https://play.google.com/store/apps/details?id=com.bfm.regicidecompanion&hl=en_US
+https://apps.apple.com/us/app/regicide-companion/id1565706782

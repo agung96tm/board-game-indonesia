@@ -12,3 +12,7 @@ Dalam Love Letter, 2-6 pelamar/pemain harus berhasil mengirimkan surat mereka ke
 ## Sources
 * [Boardgamegeek - Love Letter](https://boardgamegeek.com/boardgame/277085/love-letter)
 * [Z-Man Games - Rules (PDF)](https://images.zmangames.com/filer_public/5b/6c/5b6c17d7-7e0e-4b70-a311-9a6c32066010/ll-rulebook.pdf)
+
+
+## Translators
+* Agung Yuliyanto: [Github](https://github.com/agung96tm), [LinkedIn](https://www.linkedin.com/in/agung96tm/)

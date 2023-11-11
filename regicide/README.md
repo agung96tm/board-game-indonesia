@@ -15,7 +15,7 @@ Umur: 10 tahun keatas
 
 ## List
 * [Regicide - English (PDF)](regicide-rules-en.pdf)
-* [Regicide - Indonesian](regicide-rules-id.pdf)
+* [Regicide - Indonesian (PDF)](regicide-rules-id.pdf)
 * [Regicide - Indonesian (Text)](regicide-rules-id.txt)
 
 

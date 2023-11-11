@@ -1,0 +1,135 @@
+------------------------------------------------------------------------------------------------
+Love Letter
+------------------------------------------------------------------------------------------------
+
+
+## Ringkasan
+Dalam Love Letter, 2-6 pelamar/pemain harus berhasil mengirimkan surat mereka ke putri kerjaan, yang mencari pasangan ideal dan terpercaya ketika putri naik tahta.
+
+
+## Isi
+21 kartu karakter
+6 kartu referensi
+13 token
+1 tas kain
+
+
+## Persiapan
+1. 
+Berikan setiap pemain sebuah kartu referensi dan mengembalikan sisanya ke dalam kotak/kain.
+daftar yan ada di kartu referensi berisi nama, efek, dan jumlah dari setiap tipe kartu.
+
+2.
+kocok 21 kartu karakter untuk membuat sebuah dek. Tempatkan dek menghadap kebawah dan dapat terjangkau oleh semua pemain
+
+3.
+Ambil kartu teratas dari dek dan taruh disamping dek, menghadap kebawah tanpa melihatnya. Jika kamu bermain dengan dua pemain, ambil 3 kartu lagi dan hadapkan keatas.
+
+4.
+Bagikan setiap pemain satu kartu dari dek sebagai kartu awalan.
+
+5.
+Pemain yang akhir-akhir ini yang sering menulis sebuah surat jalan pertama.
+
+
+## Cara bermain
+Love Letter adalah game yang dimainkan dalam beberapa putaran, dimana kamu meminta pertolongan sekutu, teman dan keluarga dari putri untuk membawa sebuah surat yang ditujukan untuknya.
+
+Kartu yang ada ditanganmu mempresentasikan seseorang yang sekarang ini membawa suratmu, tapi bisa berubah selama putaran saat kamu mengambil dan memainkan kartu.
+
+Untuk memenangkan putaran, kamu bisa dengan menggunakan kartu bernilai tinggi di akhir putaran atau menjadi pemain terakhir yang tersisa.
+
+### Giliran Pemain
+Ambil giliran searah jarum jam, dalam giliranmu, ambil satu kartu dari dek, lalu, pilih dan mainkan satu dari 2 kartumu, dan selesaikan efeknya.
+
+Kartu yang sudah dimainkan dihadapkan terbuka di depanmu, dan kartu satunya lagi tetap di tanganmu dalam posisi tertutup.
+
+### Keluar dari Putaran
+Beberapa efek kartu bisa mengalahkanmu dari putaran; pelamar yg lain telah memastikan suratmu tidak akan terkirimkan.
+
+Ketika ini terjadi, buang kartu dan hadapkan terbuka di depanmu (tanpa menyelesaikan efek dari kartunya)
+
+Sampai ronde selanjutnya, kamu tidak dapat dipilih untuk menggunakan efek kartu dan giliranmu akan di lewati. Hadapkan kartu referensi mu sebagai segel yang rusak sebagai pengingat.
+
+## Memainkan dan Membuang Kartu
+Penting untuk semuanya tau kartu mana yang sudah dimainkan dan mana kartu yang tersisa di dek, jadi kartu yang sudah dimainkan dan dibuang harus bisa terlihat oleh semua pemain.
+
+## Akhir Ronder
+Ronder berakhir satu dari dua cara: ketika dek sudah habis atau ketika hanya ada satu pemain yang tersisa.
+
+### Dek sudah Habis
+Setelah semua giliran, jika dek habis, semua pemain menunjukan dan membandingkan kartu yang ada ditangannya.
+Jika kartu-mu memiliki angka tertinggi, kamu menang dan mendapat satu token; suratmu berhasil terkirim ke putri.
+Jika seri, semua pemain yang seri mendapatkan 1 token.
+
+### Satu pemain yang Tersisa
+Jika kamu adalah pemain tersisa (semua pemain keluar dari permainan selama efek kartu), maka ronder berakhir; kamu menang dan mendapatkan 1 token.
+
+
+## Memainkan Ronde Selanjutnya
+Untuk memulai ronde baru, ulangi tahap 2-4 dari persiapan (kocok kartu, sisikan beberapa, dan bagikan ke setiap pemain satu). Pemain yang menang di ronde sebelumnya mengambil giliran pertama.
+
+Jika seri di ronde sebelumnya, secara acak pilih pemain yang seri untuk memulai giliran.
+
+## Memanangkan permainan
+Permainan berakhir ketika satu pemain memiliki cukup token untuk menang (berdasarkan jumlah pemain - lihat tabel dibawah). Banyak pemain bisa sekaligus memangkan permainan.
+
+Player		Token yang Didapatkan
+2		6
+3		5
+4		4
+5		3
+6		3
+
+
+## Efek kartu
+Setiap kartu menampilkan orang penting dalam kehidupan putri. Sebuah titik di samping kanan dari kartu menampilkan berapa banyak-nya kartu tersebut dalam dek (dengan warna kuning menandakan apa yang harus di buang untuk memainkan versi klasik, lihat halaman 14).
+
+deskripsi di setiap kartu adalah ringkasan dari efek kartu. Bagian dari page 8 - 13, menyediakan rule lengkap untuk setiap karakter.
+
+
+9. Princess (kartu: 1)
+Jika kamu memainkan atau membuang princess untuk alasan apapun, kamu segera kalah.
+
+8. Countess (kartu: 1)
+Countess tidak memiliki efek ketika dimainkan ataupun dibuang.
+Kamu harus memainkan countess jika kartu yang lain adalah king atau prince.
+Ketika kamu memainkan countess, jangan ungkapkan kartu lainmu ke pemain lain; pemain lain tidak akan tau kamu terpaksa atau memilih untuk memainkannya.
+Efek countess tidak dapat digunakan ketika kamu mengambil kartu karena efek kartu lain (Chancellor).
+
+7. King (kartu: 1)
+Pilih pemain lain dan tukar kartu lainmu dengan pemain lain.
+
+6. Chancellor (kartu: 2)
+Ambil 2 kartu dari dek ke tanganmu. Pilih dan simpan satu dari tiga kartu yang sekarang dipegang dan taruh 2 kartu yang lain menghadap kebawah di posisi terbawah dari dek.
+Jika hanya ada 1 karu di dek, ambil kartunya dan kembalikan satu. Jika tidak ada kartu tersisa, kartu dimainkan tanpa efek.
+
+5. Prince (kartu: 2)
+Pilih pemain lain (termasuk dirimu). Pemain tersebut membuang kartunya (tanpa mengaktifkan efek kartu) dan ambil kartu baru dari dek. Jika dek kosong, pemain yang terpilih mengambil kartu yang tersisihkan.
+
+Jika seorang pemain memilihmu karena efek Prince, dan kamu dipaksa untuk membuang Princess, kamu kalah.
+
+4. Handmaid (kartu: 2)
+Sampai memulai giliranmu kembali, pemain lain tidak dapat memilihmu untuk memaktifkan efek kartu mereka.
+Dalam kasus langka semua pemain masih dalam giliran "terlindungi" oleh handmaid ketika kamu bermain, lakukan hal berikut:
+
+* Jika kartunya mengharuskan untuk memilih pemain lain (Guard, Priest, Baron, King), kartu-mu dimainkan tanpa efek
+* Jika kartunya mengharuskan untuk memilih pemain lain dan diri sendiri (Princes), maka kamu harus memilih dirimu sendiri untuk mengaktifkan efeknya.
+
+3. Baron (kartu: 2)
+Pilih pemain lain. Kamu dan pemain tersebut secara sembunyi membandingkan kartu yang ada ditangan. Siapapun yang mempunyai angka terkecil kalah.
+Jika seri, kedua pemain kalah.
+
+2. Priest (kartu: 2)
+Pilih pemain lain dan secara sembunyi menunjukan kartunya ke dirimu (tanpa memberitahu pemain lain).
+
+1. Guard (kartu: 6)
+Pilih pemain lain dan sebutkan nama dari karakter kartu selain Guard. Jika yang pemain yang ditunjuk mempunyai kartu tersebut, maka pemain tersebut kalah.
+
+0. Spy (kartu: 2)
+Spy tidak memiliki efek ketika dimainkan ataupun dibuang.
+Diakhir ronde, jika kamu adalah satu-satunya pemain yang bertahan yang memainkan atau membuang kartu Spy, kamu mendapatkan 1 token.
+Ini tidak dihitung sebagai kemanangan dalam ronde tersebut; pemanang (bahkan jika itu kamu) masih tetap mendapatkan 1 token.
+
+Bahkan jika kamu memainkan atau membuang 2 Spy, kamu masih mendapatkan 1 token
+

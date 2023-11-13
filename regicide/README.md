@@ -22,3 +22,7 @@ Umur: 10 tahun keatas
 ## Sources
 * [Boardgamegeek - Regicide: Rules](https://boardgamegeek.com/filepage/199721/rules-regicide)
 * [Youtube - Regicide: How to Play](https://www.youtube.com/watch?v=7XoRlKzLobk)
+
+
+## Translators
+* Agung Yuliyanto: [Github](https://github.com/agung96tm), [LinkedIn](https://www.linkedin.com/in/agung96tm/)

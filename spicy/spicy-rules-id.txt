@@ -1,0 +1,76 @@
+Spicy
+--------------------------
+pertarungan antar rempah-rempah pedas
+
+
+# Pendahuluan
+----------------------------------------------------
+Pada suatu ketika, 3 kucing besar lelah bertarung menjadi kucing terbaik. Mereka setuju untuk tidak bertarung lagi dan membumbui 9 kehidupan mereka dengan kontes makan makanan pedas! Sayang, semuanya segera melakukan kecurangan, sehingga para kucing menciptakan kepedasan yang kadang membuat menangis, dan mencoba berbohong.
+
+Pemain: 2 - 6 orang
+Waktu: 15 - 20 menit
+Umur: 10 tahun keatas
+
+
+# Isi
+---------------------------------------------------
+100 Kartu Spicy (hitam)
+1 Kartu World End (hijau laut)
+3 Kartu Tropi (putih)
+6 Kartu Spicy It Up / Varian (merah)
+
+
+# Persiapan
+---------------------------------------------------
+1. Kocok semua kartu spicy (hitam) dan bagikan 6 kartu ke setiap pemain untuk dipegang
+2. Kartu spicy tersisa digunakan untuk membuat dek untuk diambil nanti.
+3. Selanjutnya kartu World End (hijau laut) arahkan dengan tegak di dek, lalu masukkan kartunya ke dek berdasarkan tinggi yang sudah ditentukan berdasarkan jumlah pemain sebagai penanda.
+4. Taruh 3 kartu Tropi (putih) disamping dek.
+5. Untuk permainan standar, taruh ke samping kartu Spice It Up (merah). Mereka tidak akan digunakan dalam permainan.
+6. Pemain termuda mengambil giliran.
+
+
+# Cara Bermain
+---------------------------------------------------
+Permainan berlangsung searah jarum jam sampai sebuah kartu di tantang (challenged). Kamu bisa memainkan sebuah kartu atau lewat. Para pemain memainkan kartu mereka diatas tumpukan baru dan memulai tumpukan baru lagi setelah setiap tantangan:
+
+## Bermain kartu
+Memainkan 1 kartu dari tanganmu tertutup di tumpukan dan nyatakan nomor dan bumbu-nya.
+
+Catatan: Pernyataanmu boleh jujur, tapi itu tidak harus.
+
+### Kartu pertama dari tumpukan:
+	Mulai dengan kartu dengan angka 1, 2, atau 3 dan bumbu sesuai dengan pilihanmu.
+		Misal: "2 cabai (merah)".
+### Kartu yang dimainkan diposisi atas:
+	Kartu yang dideklarasikan harus lebih tinggi mengikuti warna-nya (bumbu). Setelah 10 dideklarasikan, 1, 2, ata 3 dengan warna yang sama harus dimainkan lagi.
+	
+Catatan: Jika membuat sebuah deklarasi yang salah (misal: salah bumbu), kamu harus mengambil kartumu dan pilih opsi lewat.
+
+### Lewat
+Selain bermain sebuah kartu, pemain boleh berkata "lewat" dan mengambil 1 kartu dari dek, Lalu pemain selanjutnya mengambil giliran.
+
+
+### Menantang sebuah Kartu
+__wip__
+
+## Tropi
+__wip__
+
+
+# Akhir Permainan
+---------------------------------------------------
+__wip__
+
+
+# Kredit
+---------------------------------------------------
+* Game Design: Zoltán Gyó´ri
+* Development: Roland Goslar and the Gémklub Studio (Aczél Zoltán, Medgyesi Péter, Tuska Miklós, Vágó I. Dániel)
+* Artwork: Jimin Kim
+* Graphic Design: Annika Brüning, Marina Fahrenbach
+* Editing: Sabine Machaczek
+* Producer: Heiko Eller-Bilz
+* Proofreading: Chris Meyer
+* Terima kasih kepada: Chris Baylis, Autumn Collier, Thomas Jeong, Future Pastimes, and semua teman kami dan playtesters.
+* Penerjemah Indonesia: Agung Yuliyanto (agung96tm)

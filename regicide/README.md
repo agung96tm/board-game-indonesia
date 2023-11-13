@@ -8,9 +8,9 @@ dikalahkan. Tapi berhati-hatilah! Setip giliran musuh akan menyerang kembali. Pe
 membuang kartu untuk memenuhi serangannya dan jika pemain tidak dapat membuang
 cukup kartu, semua orang kalah!
 
-Pemain: 1 - 4 orang
-Waktu: 5 - 20 menit
-Umur: 10 tahun keatas
+* Pemain: 1 - 4 orang
+* Waktu: 5 - 20 menit
+* Umur: 10 tahun keatas
 
 
 ## List

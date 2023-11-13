@@ -4,9 +4,9 @@ Love Letter
 Dalam Love Letter, 2-6 pelamar/pemain harus berhasil mengirimkan surat mereka ke putri
 kerjaan yang sedang mencari pasangan ideal dan terpercaya ketika putri naik tahta.
 
-Pemain: 2 - 6 orang
-Waktu: 20 menit
-Umur: 10 tahun keatas
+* Pemain: 2 - 6 orang
+* Waktu: 20 menit
+* Umur: 10 tahun keatas
 
 ## List
 * [Love Letter - English (PDF)](love-letter-rules-en.pdf)

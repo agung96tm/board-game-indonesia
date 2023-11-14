@@ -11,6 +11,7 @@ Pada suatu ketika, 3 kucing besar lelah bertarung menjadi kucing terbaik. Mereka
 
 ## List
 * [Spicy - English (PDF)](spicy-rules-en.pdf)
+* [Spicy - Indonesian (PDF)](spicy-rules-id.pdf)
 * [Spicy - Indonesian (Text)](spicy-rules-id.txt)
 
 

@@ -4,9 +4,9 @@ Board Game Rules Translated to Indonesian Language
 
 
 ## List
-* [Regicide](regicide/README.md)
-* [Love Letter](love-letter/README.md)
-* [Spicy](spicy/README.md)
+* [Regicide (2020)](regicide/README.md)
+* [Love Letter (2019)](love-letter/README.md)
+* [Spicy (2020)](spicy/README.md)
 
 
 ## Contributors

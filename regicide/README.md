@@ -1,4 +1,4 @@
-Regicide
+Regicide (2020)
 =====================================================
 
 Regicide adalah permainan cooperative dimana pemain bekerjasama untuk mengalahkan 12

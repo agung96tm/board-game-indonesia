@@ -1,4 +1,4 @@
-Love Letter
+Love Letter (2019)
 =====================================================
 
 Dalam Love Letter, 2-6 pelamar/pemain harus berhasil mengirimkan surat mereka ke putri

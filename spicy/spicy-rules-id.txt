@@ -16,7 +16,7 @@ Umur: 10 tahun keatas
 ---------------------------------------------------
 100 Kartu Spicy (hitam)
 1 Kartu World End (hijau laut)
-3 Kartu Tropi (putih)
+3 Kartu Tropy (putih)
 6 Kartu Spicy It Up / Varian (merah)
 
 
@@ -36,20 +36,20 @@ Permainan berlangsung searah jarum jam sampai sebuah kartu di tantang pemain lai
 Para pemain memainkan kartu mereka diatas tumpukan baru dan memulai tumpukan baru lagi setelah setiap tantangan:
 
 ## Bermain kartu
-Memainkan 1 kartu dari tanganmu tertutup di tumpukan dan nyatakan nomor dan bumbu-nya.
+Memainkan 1 kartu dari tanganmu tertutup di tumpukan dan nyatakan angka dan bumbu-nya.
 
 Catatan: Pernyataanmu boleh jujur, tapi itu tidak harus.
 
-### Kartu pertama dari tumpukan:
+### Kartu Pertama dari Tumpukan
 	Mulai dengan kartu dengan angka 1, 2, atau 3 dan bumbu sesuai dengan pilihanmu.
 		Misal: "2 cabai (merah)".
 
-### Kartu yang dimainkan diposisi atas:
+### Kartu yang Dimainkan Diposisi Atas
 	Kartu yang dideklarasikan harus lebih tinggi mengikuti warna-nya (bumbu). Setelah 10 dideklarasikan, 1, 2, ata 3 dengan warna yang sama harus dimainkan lagi.
 	
 Catatan: Jika membuat sebuah deklarasi yang salah (misal: salah bumbu), kamu harus mengambil kartumu dan pilih opsi pass.
 
-### Pass
+### Pass (Lewat)
 Selain bermain sebuah kartu, pemain boleh berkata "pass" dan mengambil 1 kartu dari dek, Lalu pemain selanjutnya mengambil giliran.
 
 ### Menantang sebuah Kartu
@@ -69,7 +69,7 @@ Contoh: Setelah di tantang dengan `Bukan Cabai`, dan Cabai angka 5 terbuka. Pema
 ### Sebagai Pemenang
 Ambil semua tumpukan kartu dan taruh secara tertutup di depanmu sebagai poin, tanpa melihat kartunya.
 
-### Sebagai yang kalah
+### Sebagai yang Kalah
 Ambil 2 kartu dari dek ke tanganmu, dan mulai membuat tumpukan baru.
 
 

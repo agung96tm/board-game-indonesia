@@ -1,0 +1,53 @@
+6 nimmt! (Take 5)
+====================================================
+
+# TUJUAN PERMAINAN
+----------------------------------------------------
+Tujuan dari permainan adalah untuk tidak mendapatkan kartu apapun. Setiap kartu yang diambil akan memberikan poin negatif per-kepala banteng yang terlihat. Pemain yang memiliki sedikit kepala banteng diakhir permain adalah pemenang.
+
+Pemain: 2 - 10 orang
+Waktu: 45 menit
+Umur: 10 tahun keatas
+
+
+# Isi
+----------------------------------------------------
+* 104 Kartu
+* 1 buku aturan permainan
+
+
+# PERSIAPAN
+----------------------------------------------------
+Kamu akan membutuhkan sebuah kertas dan alat tulis untuk melacak skor. Kocok kartu dan bagikan 10 kartu ke setiap pemain. 
+Setiap pemain mengambil kartu tersebut ke tangan dan mengurutkannya menurut angka, dalam urutan menaik.
+
+## Membuat Empat Barisan
+Taruh empat kartu teratas dari tumpukan tersisa secara terbuka di tengah-tengah permainan. 
+Setiap kartu tersebut adalah kartu pertama dari sebuah barisan, yang mana mereka tidak boleh dari 5 kartu, termasuk kartu pertama. Kesampingkan sisa kartu; kamu tidak akan membutuhannya sampai ronde selanjutnya.
+
+Gambar. 1 menampilkan 4 baris untuk memulai ronde.
+
+
+# Cara Bermain
+----------------------------------------------------
+1. Memainkan sebuah Kartu
+Setiap pemain mengambil satu kartu dari tangan dan taruh secara tertutup didepan mereka. Jika semua pemain sudah mengambil kartu yang akan dimainkan baru kartu-kartu itu di buka.
+
+Pemain yang mempunyai kartu dengan angka terkecil pertama jalan, menambahkan kartunya ke salah satu dari 4 baris. Pemain yang memiliki angka terkecil kedua jalan dan seterusnya, sampai semua kartu di ronde ini sudah ditambahkan ke barisan.
+Kartu selalu ditaruh secara urut dengan yang lainnya dalam baris. Permainan berlanjut seperti ini tiap ronde, sampai 10 kartu di setiap pemain sudah dimainkan.
+
+
+Dibaris mana sebuah kartu harus ditambahkan?
+Setiap kartu hanya ditambahkan ke satu baris tertentu, yang mana didefinisikan dengan mengikuti aturan:
+
+## Aturan No. 1: "urutan menaik"
+Angka dari kartu yang akan ditambahkan ke barisan haruslah lebih tinggi dari angka dari kartu terakhir dalam barisan tersebut.
+
+## Aturan No. 2: "Perbedaan Kecil"
+_wip_
+
+### Contoh:
+_wip_
+
+
+2. Mendapatkan Kartu

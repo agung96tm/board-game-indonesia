@@ -44,10 +44,90 @@ Setiap kartu hanya ditambahkan ke satu baris tertentu, yang mana didefinisikan d
 Angka dari kartu yang akan ditambahkan ke barisan haruslah lebih tinggi dari angka dari kartu terakhir dalam barisan tersebut.
 
 ## Aturan No. 2: "Perbedaan Kecil"
-_wip_
+Kartu selalu ditambahkan ke sebuah barisan dengan perbedaan angka terkecil antara kartu terakhir dengan kartu yang akan ditaruh.
 
 ### Contoh:
-_wip_
+Seperti dalam gambar No. 1, kartu pertama dalam barisan 1 sampai 4 memiliki angka: 12, 37, 43, dan 58. Ke empat pemain memainkan kartu: 14, 15, 44 dan 61. Sebagai kartu terendah, 14 ditambahkan ke baris pertama. Sesuai dengan aturan No. 1, kartunya hanya bisa di taruh ke barisan pertama, bersebalahan dengan kartu 12. Dengan aturan yang sama kartu 15 di taruh ke barisan tersebut juga.
+Aturan No. 1 akan membolehkan kartu 44 ditaruh ke barisan ke-2 dan ke-3. Tapi, Aturan No. 2 - "Perbedaan terkecil" - secara jelas membuatnya ditaruh ke barisan ke-3. Dengan aturan yang sama kartu 61 ditaruh ke barisan ke-4.
+
+<-- Gambar -->
+Gambar 2: menampilkan 4 baris setelah ronde pertama.
 
 
 2. Mendapatkan Kartu
+Semuanya baik-baik saja selama kamu bisa memainkan kartumu di ke empat baris yang ada. Tapi apa yang akan terjadi ketika kartu ke tempat yang baris-nya sudah penuh atau ketika tidak cocok dengan ke empat baris?
+Dalam kedua kasus tersebut, pemain yang memainkan kartu tersebut mendapatkan kartu dari baris.
+
+## Aturan No. 3: "Baris yang Penuh"
+Baris dengan 5 kartu terhitung penuh. Aturan no. 2 akan membuat kartu di taruh di posisi ke enam dari barisan, pemain yang memainkan kartu tersebut harus mengambil 5 kartu yang memenuhi barisan tersebut. Kartu pemain (posisi ke enam) akan menjadi kartu pertama dari barisan.
+
+Contoh:
+Ke empat pemain menaruh kartu: 21, 26, 30, and 36.
+kartu 21 dan 26 ditambahkan ke barisan pertama, yang mana sekarang berisi 5 kartu dan terhitung penuh. Kartu 30 juga harus ditambahkan ke barisan tersebut. Yang mana akan membuat barisannya menjadi berisi 6 kartu, pemain yang menaruh kartu 30, harus mengambil 5 kartu yang sekarang ada di barisan sebelum menaruh kartu 30-nya, dan menjadi kartu pertama dalam barisan tersebut. Kartu 36 akan di barisan yang sama, dan ditaruh bersebelahan dengan kartu 30.
+
+<-- Gambar -->
+
+Gambar 3: menampilkan 4 baris setelah ronde kedua.
+
+## Aturan No. 4: "Kartu dengan angka rendah"
+Jika seorang pemain memainkan sebuah kartu dengan kartu terendah yang tidak cocok dengan baris manapun, pemain tersebut harus mengambil semua kartu dari barisan yang dia pilih. Kartu-nya akan menjadi kartu pertama dari barisan tersebut.
+
+Contoh:
+Kartu yang dimainkan: 3, 9, 68 dan 93. Kartu 3 adalah kartu terendah dan oleh karena itu menjadi kartu yang pertama ditambahkan dalam barisan. Karena tidak cocok dengan baris manapun, pemain harus mengambil semua kartu dari salah satu barisan. 
+Pemain memilih baris ke-2, mengambil kartu 37, lalu menaruh kartu 3 sebagai kartu pertama dari barisan tersebut. Pemain dengan kartu 9 beruntung, karena sekarang kartunya bisa ditaruh bersebalahan dengan kartu 3.
+
+
+<-- Gambar -->
+
+Gambar 4: menampilkan 4 baris setelah ronde ketiga.
+
+Catatan:
+Pemain yang sudah memilih untuk mengambil semua kartu dari barisan karena kartu yang dimainkannya terlalu rendah. Biasanya memilih barisan yang memiliki skor dengan minus poin paling rendah.
+
+-- KEPALA BANTENG = MINUS POIN --
+Selain angka kartu, setiap kartu menampilkan 1 sampai 7 kepala banteng. Ketika pemain mengambil kartu, kepala banteng menggambarkan 1 minus poin.
+
+Pemain dengan angka:
+
+<-- Gambar -->: Berisi angka 5 (5, 15, 25, dan seterusnya) mempunyai 2 kepala banteng
+<-- Gambar -->: Berisi angka dengan pertambahkan 10 (10, 20, 30, dan seterusnya) mempunyai 3 kepala banteng.
+<-- Gambar -->: Berisi angka ganda (11, 22, 33, dan seterusnya) mempunyai 5 kepala banteng.
+<-- Gambar -->: Angka 55 terhitung ganda dan berisi angka 5, oleh karena itu mempunyai 7 kepala banteng.
+
+
+-- TUMPUKAN KEPALA BANTENG --
+Taruh semua kartu yang sudah didapatkan didepanmu dengan posisi tertutup, tumpukan tersebut disebut sebagai "tumpukan kepala banteng".
+
+Catatan: Kamu tidak boleh mengambil kartu tersebut untuk dimainkan.
+
+
+# Akhir Permainan
+----------------------------------------------------
+Permainan berakhir ketika para pemain telah memainkan 10 kartu dari tangan. Setiap pemain lalu mengambil tumpukan kepala banteng dan menghitung minus poin mereka.
+
+Catat minus poin dari setiap pemain ke sebuah kertas. Ambil dan Kocok semua kartu untuk memulai permainan kembali. Permainan akan dimainkan beberapa kali, sampai seorang pemain mendapatkan  66 atau lebih kepala banteng. 
+Pemain dengan kepala banteng yang paling sedikit menang permainan.
+
+Tentu saja, kamu bisa memutuskan untuk memainkan dengan skor berbeda, atau jumlah kartu yang dimainkan (tidak harus 10).
+
+
+# Beberapa Tips
+----------------------------------------------------
+Beberapa contoh berikut akan memberikan kamu gambaran tentang kemungkinan jebakan dalam permainan.
+
+Contoh: 1
+Pemain yang menaruh "45" berfikir dia bisa menaruhnya disamping kartu 41 di barisan ketiga. Dia salah, di Aturan Ke. 2 memungkinan kartunya ditaruh bersebelahan dengan kartu 42 di barisan ke 4, yang mana perbedaan angkanya paling kecil. Hal tersebut membuat 6 kartu di barisan tersebut, dan pemain harus mengambil 5 kartu.
+
+
+<-- Gambar -->
+
+Gambar 5: Gambar untuk Contoh 1
+
+
+Contoh: 2
+Pemain yang memainkan kartu 62 berfikir dia membuat gerakan yang bagus. Dia berencana untuk menaruh kartu tersebut bersebelahan dengan kartu 61 di barisan pertama. Dia ternyata salah, seseorang memainkan kartu 29 di ronde yang sama, membersihkan baris pertama (Aturan No.4, "Kartu dengan Angka rendah"). Sekarang kartu 62 akan ke baris ke 4, yang mana pemain harus mengambil ke 5 kartu dari barisan tersebut.
+
+
+<-- Gambar -->
+
+Gambar 6: Gambar untuk Contoh 2

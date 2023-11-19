@@ -1,4 +1,4 @@
-6nimmt! (1994)
+6 nimmt! (1994)
 =====================================================
 
 Tujuan dari permainan adalah untuk tidak mendapatkan kartu apapun. Setiap kartu yang diambil akan memberikan poin negatif per-kepala banteng yang terlihat. Pemain yang memiliki sedikit kepala banteng diakhir permain adalah pemenang.
@@ -9,13 +9,13 @@ Tujuan dari permainan adalah untuk tidak mendapatkan kartu apapun. Setiap kartu 
 
 
 ## List
-* [Nimmt6 - English (PDF)](nimmt6-rules-en.pdf)
-<!-- * [Nimmt6 - Indonesian (PDF)]() -->
-* [Nimmt6 - Indonesian (Text)](nimmt6-rules-id.txt)
+* [6 nimmt! - English (PDF)](6nimmt-rules-en.pdf)
+* [6 nimmt! - Indonesian (PDF)](6nimmt-rules-id.pdf)
+* [6 nimmt! - Indonesian (Text)](6nimmt6-rules-id.txt)
 
 
 ## Sources
-* [Nimmt6: Rules](https://world-of-board-games.com.sg/docs/6-Nimmt.pdf)
+* [6 nimmt!: Rules](https://world-of-board-games.com.sg/docs/6-Nimmt.pdf)
 
 
 ## Translators

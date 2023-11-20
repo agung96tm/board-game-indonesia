@@ -57,7 +57,7 @@ Umur: 10 tahun keatas
 * Permainan dimainkan dalam beberapa ronde. Setiap ronde terdiri dari 3 tahap:
   * Tahap 1: Deal
   * Tahap 2: Aksi
-  * Tahap 3: Perhitungan Score dan Pembaharuan
+  * Tahap 3: Perhitungan Skor dan Pembaharuan
 * Jika ada pemain yang mencapai kemenangan dalam perhitungan skor, permainan berakhir segera. Jika tidak, permainan berlanjut ke ronde selanjutnya. Permainan berlanjut hingga terdapat pemenang.
 
 ## Tahap 1: Deal
@@ -66,10 +66,44 @@ Umur: 10 tahun keatas
 * Tumpuk sisa Kartu Item secara tertutup sebagai Dek Kartu dan taruh bersebelahan dengan barisan Kartu Geisha.
 
 ## Tahap 2: Aksi
-_wip_
+* Dimulai dari pemain pertama, para pemain secara bergantian mengambil giliran (Pemain A -> Pemain B -> Pemain A -> Pemain B -> dan seterusnya) sampai kedua pemain sudah mengamil 4 giliran.
+* Digiliranmu, kamu harus mengambil 1 kartu dari Dek Item, dan melakukan sebuah Aksi. penggunaan Aksi boleh acak (tidak ada urutan).
+* Ketika kamu melakukan sebuah Aksi, kamu memilih 1 Token Aksi yang terbuka dan melakukan Aksi. Setelah melakukan aksi tersebut, balik token aksi. Kamu tidak bisa memilih token yang sudah tertutup (setiap token aksi pemain hanya bisa digunakan sekali untuk tiap ronde)
+* Terdapat 4 Aksi dalam Hanamikoji:
+  1 Secret (Tertutup)
+    <-- image -->
+    * Pilih 1 kartu dari tanganmu, dan taruh secara tertutup di bawah Token Aksi: Secret. Kartu tersebut akan dibuka dalam tahap perhitungan skor dan di pakai untuk skoring.
+    * Kamu bisa memeriksanya setiap saat.
+  2 Trade Off (Pertukaran / Membuang Kartu)
+    <-- image -->
+    * Pilih 2 kartu dari tanganmu, dan taruh secara tertutup di bawah Token Aksi: Trade Off. Kartu tersebut tidak akan digunakan untuk skoring dalam ronde ini.
+    * Kamu bisa memeriksanya setiap saat.
+  3 Gift (Memberi)
+    <-- image -->
+    * Pilih 3 kartu dari tanganmu, dan taruh menghadap terbuka didepanmu.
+    * Lawanmu akan memilih 1 kartu, dan menaruh di sisi-nya menghadap Geisha yang sesuai. Lalu, taruh 2 sisa kartu di sisimu dan hadapkan sesuai dengan Geisha-nya. Kartu tersebut digunakan untuk skoring.
+    <-- image -->
+  4 Competition (Kompetisi)
+    <-- image -->
+    * Pilih 4 kartu dari tanganmu, dan taruh menghadap terbuka didepanmu.
+    * Lawanmu akan 1 set berisi 2 kartu, dan menaruhnya kedua kartu tersebut disisi-nya menghadap Geisha yang sesuai. Lalu, taruh 2 sisa kartu disisimu dan hadapkan sesuai dengan Geisha-nya. Kartu tersebut digunakan untuk skoring.
+    <-- image -->
 
 ## Tahap 3: Perhitungan Score dan Pembaharuan
-_wip_
+* Setelah kedua pemain melakukan 4 Aksi, permainan berlanjut ke tahap 3.
+
+* Kedua pemain membuka kartu dari Token Aksi: Secret, dan menaruh kartu tersebut di sisi mereka berdasarkan Geisha yang sesuai. Lalu, bandingkan jumlah dari Kartu Item dari kedua sisi dari setiap Geisha:
+  * Satu sisi lebih banyak dari lainnya: Sisi yang memiliki Kartu Item lebih banyak memenangkan Geisha teresbut. Pindahkan Token Kemenangan ke sisi pemenang.
+  * Dua sisi Seri atau tidak ada Kartu: Jangan ubah posisi token kemenangan.
+
+* Setelah skoring, kedua pemain menghitung jumlah angka dari Geisha yang mereka menangkan dan menjumlah poin pesona-nya. Jika ada pemain kemenangan (4 Geisha atau 11 poin pesona), permainan segera berakhir (Lihat: Akhir Permainan).
+
+* Jika tidak ada yang mencapai kemenangan, proces untuk Pembaharuan:
+  * Ambil semua Kartu Item termasuk yang ada di dalam box, tumpuk menghadap tertutup dan taruh bersebelahan dengan Kartu Geisha.
+  * Token Kemenangan tetap di tempat. Catatan: Jangan ubah posisi-nya ke tengah kartu Geisha.
+  * Kedua pemain membalik Token Aksi menghadap terbuka.
+  * Pemain kedua menjadi pemain yang memulai permainan.
+  * Ronde selanjut siap dimulai.
 
 
 # AKHIR PERMAINAN

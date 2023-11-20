@@ -1,0 +1,92 @@
+Hanamikoji
+====================================================
+
+# Pendahuluan
+----------------------------------------------------
+Selamat datang di tempat yang sudah tidak asing lagi yaitu jalan Geisha di kota tua, Hanamikoji. Geisha, wanita anggun yang menguasai seni, musik, menari, dan berbagai pertunjukan setelah bertahun-tahun berlatih, sangat dihormati dan dipuja.
+Geisha dapat di artikan sebagai "seniman" dan mereka menari, bernyanyi dan mengibur orang-orang.
+
+Dalam Hanamikoji, dua pemain bersaing untuk mendapatkan bantuan dari 7 master Geisha dengan mengkoleksi item yang mereka kuasai. Dengan hati-hati berspekulasi dan berani bergerak, kamu akan mendapatkan barang yang dibutuhkan dan membuang barang yang tidak. Bisakah kamu mengalahkan lawanmu dan mendapatkan bantuan dari semua geisha?.
+
+Pemain: 2 orang
+Waktu: 15 menit
+Umur: 10 tahun keatas
+
+
+# ISI
+----------------------------------------------------
+* 7 Kartu Geisha
+* 21 Kartu Item
+* 8 Token Aksi
+* 7 Token kemenangan
+
+
+# TUJUAN PERMAINAN
+----------------------------------------------------
+* Dalam permainan Hanamikoji, tujuannya adalah mendapatkan 4 Geisha atau 11 (atau lebih) poin pesona.
+* Kamu dan lawanmu mengambil giliran untuk melakukan aksi untuk mendapatkan berbagai macam kartu Item. Untuk setiap Geisha, jika kamu mempunyai Kartu Item terbanyak dari tipe yang sesuai, kamu menanangkan Geisha tersebut.
+* Permainan berlanjut sampai setiap pemain sudah mencapai kemenangan dalam Tahap Perhitungan (Scoring).
+
+
+# DETAIL KARTU
+---------------------------------------------------
+* Kartu Geisha
+
+<-- Image -->
+
+1. Poin Pesona (sesuai dengan jumlah item kartu untuk tiap tipe)
+2. Barang yang Sesuai dengan Geisha.
+
+<-- Image -->
+
+1. Poin Pesona (sesuai dengan jumlah item kartu untuk tiap tipe)
+2. Barang yang Sesuai dengan Geisha.
+
+
+# PERSIAPAN
+----------------------------------------------------
+1. Taruh 7 Geisha dalam sebuah barisan, urut dari kiri ke kanan, antar pemain.
+2. Taruh 1 Token Kemenangan di tengah-tengah tiap kartu Geisha.
+3. Tumpukan Kartu Item ditaruh tertutup bersebelahan dengan kartu Geisha.
+4. Setiap pemain mengambil Token Aksi dengan warna yang sama dengan warna sisi atas-nya, dan taruh di depan mereka.
+5. Pemain termuda jalan duluan.
+
+
+# URUTAN BERMAIN
+----------------------------------------------------
+* Permainan dimainkan dalam beberapa ronde. Setiap ronde terdiri dari 3 tahap:
+  * Tahap 1: Deal
+  * Tahap 2: Aksi
+  * Tahap 3: Perhitungan Score dan Pembaharuan
+* Jika ada pemain yang mencapai kemenangan dalam perhitungan skor, permainan berakhir segera. Jika tidak, permainan berlanjut ke ronde selanjutnya. Permainan berlanjut hingga terdapat pemenang.
+
+## Tahap 1: Deal
+* Untuk memulai pemain akan mengkocok semua 21 Kartu Item tertutup, dan secara acak menyingkirkan 1 kartu dari permainan dan menaruhnya kembali ke box tanpa dilihat. Kartu-nya tidak dipakai untuk ronde ini. Para pemain tidak boleh memeriksa/melihat-nya.
+* Bagikan setiap pemain 6 Kartu Item tertutup. Kartu tersebut hanya boleh diketahui oleh pemain bersangkutan.
+* Tumpuk sisa Kartu Item secara tertutup sebagai Dek Kartu dan taruh bersebelahan dengan barisan Kartu Geisha.
+
+## Tahap 2: Aksi
+_wip_
+
+## Tahap 3: Perhitungan Score dan Pembaharuan
+_wip_
+
+
+# AKHIR PERMAINAN
+----------------------------------------------------
+* Jika ada seorang pemain yang memenangkan 4 Geisha atau 11 (atau lebih) Poin Pesona, permainan berakhir segera.
+* Jika hanya ada satu pemain yang mencapai kemenangan, Dia adalah pemenangnya.
+* Jika satu pemain memenangkan 4 Geisha dan pemain lain mendapatkan 11 (atau lebih) Poin Pesona, yang terakhir adalah pemenangnya.
+
+Contoh:
+Pemain di atas memenangkan 3 Geisha, dengan total 8 Poin Pesona. Pemain bawah menang 3 Geisha dengan total 11 poin Pesona. Karena pemain bawah mencapai kemenangan, permainan segera berakhir. Pemain bawah adalah pemenangnya.
+
+# KREDIT
+----------------------------------------------------
+* Design Game: Kota Nakayama
+* Artist: Maisherly Chan
+* Produser: Wei-Min Ling
+* Original: COLON ARC
+* Translation: Wei-Min Ling
+* Proofreading: Smoox Chen
+* Penerjemah Indonesia: Agung Yuliyanto (agung96tm)

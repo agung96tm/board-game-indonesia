@@ -8,6 +8,7 @@ Board Game Rules Translated to Indonesian Language
 * [Love Letter (2019)](love-letter/README.md)
 * [Spicy (2020)](spicy/README.md)
 * [6nimmt (1994)](nimmt6/README.md)
+* [Hanamikoji (2013)](hanamikoji/README.md)
 
 
 ## Contributors

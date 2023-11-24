@@ -9,6 +9,7 @@ Board Game Rules Translated to Indonesian Language
 * [Spicy (2020)](spicy/README.md)
 * [6nimmt (1994)](nimmt6/README.md)
 * [Hanamikoji (2013)](hanamikoji/README.md)
+* [Claim (2017)](claim/README.md)
 
 
 ## Contributors

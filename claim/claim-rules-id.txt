@@ -1,0 +1,94 @@
+Claim
+====================================================
+
+# PENDAHULUAN
+----------------------------------------------------
+Raja telah meninggal! Apa yang terjadi? Tidak ada yang tau, tapi raja ditemukan dalam tong anggur pagi hari. Pasti ada yang melakukan hal licik atau dia sendiri yang melakukan itu. Bagaimanapun juga Raja telah meninggal tanpa adanya ahli waris, hal ini menjadi bergantung kepada ke lima faksi kerajaan untuk memutuskan siapa yang akan menjadi raja baru: apakah itu kamu atau lawanmu. Apakah kamu punya apa yang diperlukan untuk memenangkan faksi-faksi yang ada di dunia ini?
+
+Pemain: 2 orang
+Waktu: 25 menit
+Umur: 10 tahun keatas
+
+
+# ISI
+----------------------------------------------------
+* 52 Kartu terdiri dari 5 Faksi:
+  - 14 Goblin | angka 0 - 9, dengan 5 angka 0
+  - 10 Dwarf | angka 0 - 9
+  - 10 Undead | angka 0 - 9
+  - 10 Doppelgänger | angka 0 - 9
+  - 8 Knight | angka 0 - 9
+* 2 Kartu Ringkasan (Panduan)
+
+
+# PERSIAPAN
+----------------------------------------------------
+Kocok semua kartu dan taruh secara tertutup di posisi tengah meja.
+Bagikan setiap pemain 13 Kartu. Setiap pemain mengambil kartu mereka tanpa menunjukannya ke pemain lain.
+
+
+# RINGKASAN PERMAINAN
+----------------------------------------------------
+Permainan dimainkan dengan 2 fase berbeda. Dalam fase pertama, setiap pemain mendapatkan kartu yang akan mereka gunakan untuk me-rekrut pengikut.
+Dalam fase kedua, Para pemain akan menggunakan kartu dari fase pertama untuk menyelesaikan dan memenangkan 5 faksi. Di akhir permainan pemain yang mempunyai pengikut terbanyak dari sebuah faksi maka memenangkan faksi tersebut. Pemain yang menang paling sedikit 3 faksi maka memenangkan permainan.
+
+
+## Tahap Pertama: Rekrut Pengikut
+_wip_
+
+### Memperlihatkan Satu Kartu
+_wip_
+
+### Memainkan Kartu
+_wip_
+
+### Mengambil Kartu
+_wip_
+
+
+## Tahap Kedua: 
+_wip_
+
+### Memainkan Kartu
+_wip_
+
+### Mengambil kartu
+_wip_
+
+
+# AKHIR PERMAINAN
+----------------------------------------------------
+_wip_
+
+
+# FAKSI DENGAN KEKUATAN SPESIAL
+----------------------------------------------------
+_wip_
+
+## Goblin
+Tanpa Kekuatan Spesial.
+
+## Knight
+Ketika dimainkan setelah Goblin, Otomatis mengalahkan sebuah Goblin tanpa mempedulikan angkanya.
+Penting: Pemain tetap harus mengikuti Faksi, Jika sanggup.
+
+## Undead
+Memainkan Kartu Undead tidak akan membuangnya saat fase pertama seperti faksi lain, tapi ditambahkan ke pemenang trick dalam tumpukan skoring.
+
+## Dwarf
+Dalam fase dua, pemain yang kalah trick mengambil semua Dwarf yang dimainkan dalam fase dua dan menambahkannya ke tumpukan skoring. Pemenang masih mengambil kartu yang bukan Dwarf jika ada/dimainkan.
+
+## Doppelgänger
+Pertimbangkan kartu ini sebagai kartu Wild/Joker. Kamu boleh memainkan Doppelgänger tanpa mengikuti faksi-nya, bahkan jika kamu bisa mengikuti faksi yang harus dimainkan. Ketika dimainkan dalam posisi kedua, kartu ini akan menjadi/meniru kartu dari faksi kartu pertama dan dihitung sebagai faksi tersebut.
+Catatan: Jika Pemimpin memainkan Doppelgänger, pemain lain harus memainkan Doppelgänger, jika bisa.
+Penting: Doppelgänger tidak dapat meniru Kekuatan Spesial dari kartu yang ditiru. Sebagai contoh, Jika kartu yang dimainkan pertama dalam Tahap Pertama adalah Undead, kartu Doppelgänger tidak diambil oleh pemenang, begitupun diambil ketika Tahap Kedua oleh yang kalah seperti Kekuatan Spesial Dwarf.
+
+
+# KREDIT
+----------------------------------------------------
+* Game design: Scott Almes
+* Illustrations: Mihajlo Dimitrievski
+* Graphic design: Martijn Haddering
+* Rulebook development: Jeroen Hollander
+* Project manager: Jonny de Vries
+* Penerjemah Indonesia: Agung Yuliyanto (agung96tm)

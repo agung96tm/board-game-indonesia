@@ -20,6 +20,8 @@ Umur: 10 tahun keatas
   - 8 Knight | angka 0 - 9
 * 2 Kartu Ringkasan (Panduan)
 
+<-- image -->
+
 
 # PERSIAPAN
 ----------------------------------------------------
@@ -29,59 +31,87 @@ Bagikan setiap pemain 13 Kartu. Setiap pemain mengambil kartu mereka tanpa menun
 
 # RINGKASAN PERMAINAN
 ----------------------------------------------------
-Permainan dimainkan dengan 2 fase berbeda. Dalam fase pertama, setiap pemain mendapatkan kartu yang akan mereka gunakan untuk me-rekrut pengikut.
-Dalam fase kedua, Para pemain akan menggunakan kartu dari fase pertama untuk menyelesaikan dan memenangkan 5 faksi. Di akhir permainan pemain yang mempunyai pengikut terbanyak dari sebuah faksi maka memenangkan faksi tersebut. Pemain yang menang paling sedikit 3 faksi maka memenangkan permainan.
+Permainan dimainkan dengan 2 Tahap berbeda. Dalam Tahap Pertama, setiap pemain mendapatkan kartu yang akan mereka gunakan untuk merekrut pengikut.
+Dalam Tahap Kedua, Para pemain akan menggunakan kartu dari Tahap Pertama untuk menyelesaikan dan memenangkan 5 faksi. Di akhir permainan pemain yang mempunyai pengikut terbanyak dari sebuah faksi memenangkan faksi tersebut. Pemain yang menang paling sedikit 3 faksi memenangkan permainan.
 
 
 ## Tahap Pertama: Rekrut Pengikut
-_wip_
+Tahap ini terdiri dari tiga belas trick, satu dari setiap kartu di tangan pemain. Pemimpin trick adalah pemain yang menang trick terakhir (atau dikasus ini yang pertama adalah pemain termuda).
 
-### Memperlihatkan Satu Kartu
-_wip_
+Setiap trick yang dimainkan mengikuti 3 tahap:
+
+### Membuka satu Kartu
+Balik kartu teratas dari dek di tengah meja sacara terbuka dan taruh diantara para pemain. Para pemain bersaing mendapatkan kartu tersebut.
 
 ### Memainkan Kartu
-_wip_
+1. Pemimpin memainkan satu kartu dari tangannya.
+Catatan: Pemimpin bisa memilih kartu dari faksi apapun, tidak harus dari faksi yang coba direbut antar pemain (- Membuka satu Kartu).
+
+2. Lalu pemain lain memainkan satu kartu dari tangannya.
+Penting: Jika mampu, pemain lain harus mengikuti faksi yang dibuka oleh Pemimpin. Artinya, jika pemain mempunyai kartu  faksi yang sama ditangannya maka kartu tersebut harus dimainkan (kecuali: Doppelgänger). Pemain hanya bisa memainkan kartu dari faksi berbeda jika tidak ada kartu yang sama ditangannya dengan kartu yang dimainkan Pemimpin.
 
 ### Mengambil Kartu
-_wip_
+1. Pemain yang memainkan dengan angka tertinggi (0 terendah, 9 tertinggi) dari faksi yang dimainkan oleh Pemimpin memenangkan kartu di tengah. Jika seri, Pemimpin menang trick tersebut.
+Catatan: Jika pemain kedua memainkan kartu dari faksi berbeda dari Pemimpin maka Pemimpin otomatis menang trick, kecuali dalam efek kekuatan faksi (Doppelgänger atau Knight).
+
+2. Pemenang menaruh kartu yang dimenangkan tertutup di Dek Pengikut mereka. Yang kalah mengambil satu kartu dari atas Dek di tengah meja dan menaruhnya tertutup di Dek Pengikutnya. Pemain tersebut boleh melihat kartu tersebut, tapi tidak boleh menunjukannya ke pemain lain.
+Catatan: Kartu dari Dek Pengikut akan dimainkan dalam Tahap Kedua.
+
+3. Jika kedua pemain memainkan kartu Undead, pemenang trick mengambil kartu tersebut dan menaruhnya terbuka di Tumpukan Skor.
+Penting: Mengambil kartu Undead dari tengah meja akan di simpan sebagai ke Dek Pengikut untuk digunakan dalam Tahap Kedua.
+
+4. Buang semua (sisa) kartu yang sudah dimainkan.
+Penting: Pastikan Tumpukan Skor terbuka dan Dek Pengikutmu tertutup, untuk memisahkan mereka.
 
 
-## Tahap Kedua: 
-_wip_
+## Tahap Kedua: Mendapatkan Dukungan
+Kedua pemain mengambil 13 Kartu Pengikut mereka dari Tahap Pertama. Sekarang, para pemain akan memainkan 13 trick di tahap sebelumnya. Namun, bukan bersaing untuk mendapatkan kartu ditengah permainan, sekarang para pemain bersaing mendapatkan kartu yang dimainkan.
+
+Setiap trick yang dimainkan mengikuti dua tahap:
 
 ### Memainkan Kartu
-_wip_
+1. Pemimpin memainkan kartu apapun dari tangannya.
+2. Pemain lain memainkan kartu apapun dari tangannya.
+Penting: Aturan untuk mengikuti faksi Pemimpin masih berlaku!
 
-### Mengambil kartu
-_wip_
+### Mengambil Kartu
+1. Tentukan pemenang seperti Tahap Pertama.
+2. Pemain yang memenangkan trick menaruh dua kartu yang dimainkan terbuka di Tumpukan Skornya, kecuali efek kekuatan faksi (Dwarf).
+
+Setelah semua pemain memainkan semua kartu dari tangannya, waktunya mengihtung para faksi.
 
 
 # AKHIR PERMAINAN
 ----------------------------------------------------
-_wip_
+Setiap pemain menghitung berapa banyak kartu yang didapatkannya untuk setiap faksi di Tumpukan Skor mereka. Siapapun yang mempunyai kartu terbanyak dari sebuah faksi, memenangkan faksi tersebut. Jika seri, siapapun yang memiliki angka kartu terbesar memenangkan faksi tersebut. Pemain yang menang setidaknya 3 faksi memenangkan permainan!
 
 
 # FAKSI DENGAN KEKUATAN SPESIAL
 ----------------------------------------------------
-_wip_
+Setiap faksi mempunyai efek spesial ketika dimainkan. Berikut listnya:
 
 ## Goblin
+<-- image -->
 Tanpa Kekuatan Spesial.
 
 ## Knight
-Ketika dimainkan setelah Goblin, Otomatis mengalahkan sebuah Goblin tanpa mempedulikan angkanya.
+<-- image -->
+Ketika dimainkan setelah Goblin, Otomatis mengalahkan Goblin tanpa mempedulikan angkanya.
 Penting: Pemain tetap harus mengikuti Faksi, Jika sanggup.
 
 ## Undead
-Memainkan Kartu Undead tidak akan membuangnya saat fase pertama seperti faksi lain, tapi ditambahkan ke pemenang trick dalam tumpukan skoring.
+<-- image -->
+Memainkan Kartu Undead tidak akan membuangnya saat fase pertama seperti faksi lain, tapi ditambahkan ke pemenang trick dalam Tumpukan Skor.
 
 ## Dwarf
-Dalam fase dua, pemain yang kalah trick mengambil semua Dwarf yang dimainkan dalam fase dua dan menambahkannya ke tumpukan skoring. Pemenang masih mengambil kartu yang bukan Dwarf jika ada/dimainkan.
+<-- image -->
+Dalam fase dua, pemain yang kalah trick mengambil semua Dwarf yang dimainkan dalam fase dua dan menambahkannya ke Tumpukan Skor. Pemenang masih mengambil kartu yang bukan Dwarf jika ada/dimainkan.
 
 ## Doppelgänger
+<-- image -->
 Pertimbangkan kartu ini sebagai kartu Wild/Joker. Kamu boleh memainkan Doppelgänger tanpa mengikuti faksi-nya, bahkan jika kamu bisa mengikuti faksi yang harus dimainkan. Ketika dimainkan dalam posisi kedua, kartu ini akan menjadi/meniru kartu dari faksi kartu pertama dan dihitung sebagai faksi tersebut.
 Catatan: Jika Pemimpin memainkan Doppelgänger, pemain lain harus memainkan Doppelgänger, jika bisa.
-Penting: Doppelgänger tidak dapat meniru Kekuatan Spesial dari kartu yang ditiru. Sebagai contoh, Jika kartu yang dimainkan pertama dalam Tahap Pertama adalah Undead, kartu Doppelgänger tidak diambil oleh pemenang, begitupun diambil ketika Tahap Kedua oleh yang kalah seperti Kekuatan Spesial Dwarf.
+Penting: Doppelgänger tidak dapat meniru Kekuatan Spesial dari kartu yang ditiru. Sebagai contoh, Jika kartu yang dimainkan pertama dalam Tahap Pertama adalah Undead, kartu Doppelgänger tidak diambil oleh pemenang (untuk skoring), begitupun diambil ketika Tahap Kedua oleh yang kalah seperti Kekuatan Spesial Dwarf.
 
 
 # KREDIT

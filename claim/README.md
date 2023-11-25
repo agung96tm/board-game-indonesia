@@ -8,13 +8,13 @@ Raja telah meninggal! Apa yang terjadi? Tidak ada yang tau, tapi raja ditemukan 
 * Umur: 10 tahun keatas
 
 ## List
-* [Love Letter - English (PDF)](claim-rules-en.pdf)
-* [Love Letter - Indonesian (PDF)](lclaim-rules-id.pdf)
-* [Love Letter - Indonesian (Text)](claim-rules-id.txt)
+* [Claim - English (PDF)](claim-rules-en.pdf)
+* [Claim - Indonesian (PDF)](claim-rules-id.pdf)
+* [Claim - Indonesian (Text)](claim-rules-id.txt)
 
 
 ## Sources
-* [Boardgamegeek - Love Letter](https://boardgamegeek.com/boardgame/233961/claim)
+* [Boardgamegeek - Claim](https://boardgamegeek.com/boardgame/233961/claim)
 
 
 ## Translators

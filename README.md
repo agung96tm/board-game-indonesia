@@ -10,6 +10,7 @@ Board Game Rules Translated to Indonesian Language
 * [6nimmt (1994)](nimmt6/README.md)
 * [Hanamikoji (2013)](hanamikoji/README.md)
 * [Claim (2017)](claim/README.md)
+* [No Thanks! (2004)](no-thanks/README.md)
 
 
 ## Contributors

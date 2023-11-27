@@ -23,7 +23,10 @@ Untuk menghitung skor paling sedikit; para pemain menghitung skor setiap saat me
 
 # PERSIAPAN
 ----------------------------------------------------
-_wip_
+1. Kocok kartu dan taruh 9 kartu ke box tanpa melihatnya. Kartu tersebut tidak akan digunakan.
+2. Taruh sisa kartu, tertutup, untuk membentuk sebuah tumpukan.
+3. Berikan counter ke setiap pemain berdasarkan jumlah pemain. Untuk 3 - 5 Orang, berikan 11 counter; untuk 6 pemain, berikan 9 counter, untuk 7 pemain, berikan 7 counter. Kembalikan sisanya ke dalam box.
+4. Tips: Ide bagus untuk tetap menyembunyikan counter. Kebanyakan pemain akan mengepalkan/menyembunyikan counter-nya di tangan, tapi dimanapun kamu menyembunyikan-nya masih tetap berfungsi.
 
 
 # CARA BERMAIN
@@ -33,12 +36,17 @@ _wip_
 
 # MEMENANGKAN PERMAINAN
 ----------------------------------------------------
-_wip_
+Permainan berakhir ketika tumpukan kartu habis dan tidak ada kartu tersisa untuk diambil. Tambahkan point ke semua kartu yang terlihat (hitung hanya kartu terendah dari sebuah urutan), lalu kurangi dengan sisa counter yang kamu miliki. Pemain yang totalnya paling sedikit adalah pemenang.
+
+<-- Gambar --
+Di contoh, kamu mengambil kartu dan terhitung 3 + 7 + 12 + 15 + 25, totalnya adalah 62 point. Kurangi dengan 8 counter, dan skor akhirmu adalah 54 point.
 
 
 # TIPS
 ----------------------------------------------------
-_wip_
+1. Ide bagus bila kamu mencoba menahan countermu - counter membantumu di skoring di akhir permainan dan menjauhkanmu dari mengambil kartu yang tidak kamu ingin ambil ketika kamu kehabisan counter.
+2. Jika kartu yang kamu inginkan dalam urutan adalah angka besar, kamu mungkin ingin membiarkannya berputar beberapa kali sebelum kamu mengambilnya, sehingga pemain lain menaruh counter ke kartu tersebut sebelum kamu mengambilnya. Bahkan jika pemain lain mengambilnya, mereka akan menambah banyak poin ke skor mereka (yang mana akan menolongmu).
+3. Perhatikan pemain mana yang memiliki sedikit counter - mereka mungkin akan terpaksa mengambil kartu yang kamu inginkan ketika mereka kehabisan counter.
 
 
 # KREDIT

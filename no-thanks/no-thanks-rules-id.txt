@@ -31,7 +31,25 @@ Untuk menghitung skor paling sedikit; para pemain menghitung skor setiap saat me
 
 # CARA BERMAIN
 ----------------------------------------------------
-_wip_
+1. Jika kamu pemain paling tua, mulai permainan dengan:
+  a. Balikan kartu teratas dari tumpukan secara terbuka dan dan putuskan kamu ingin:
+    i. Ambil kartu dan taruh kartunya terbuka di depanmu (ini berarti kamu mengumpulkan poin dari kartu), atau
+    ii. Katakan "No Thanks!" (Tidak terima kasih/Pass) dan taruh satu counter punyamu di kartu tersebut sehingga kamu tidak harus mengambilnya.
+
+  Setiap kartu memiliki sejumlah poin angka yang terlihat dikartunya (tapi harus diingat, poin itu buruk!). Counter bagus - setiapnya dapat membatalkan/mengurangi poin kartu di akhir permainan.
+
+2. Jika kamu tidak mengambil kartu, pemain di sebelah kirimu harus membuat keputusan yang sama, ambil atau menaruh counter. Ini berlanjut sampai seorang pemain mengambil kartu, dan semua counter yang ada diatasnya. Kadang kala (umumnya dengan kartu dengan angka besar), akan berputar dan berputar - Kamu akan mendapatkan berkali-kali kesempatan untuk menaruh counter ke kartu sebelum kamu atau pemain lain yang mengambilnya. Ketika kamu mengambil kartu-nya, taruh kartunya terbuka didepanmu dan tambahkan counter dari kartu tersebut ke dalam counter milikmu.
+3. Setiap saat kamu mengambil sebuah kartu. Permainan diulang dengan membalikan kartu teratas dari tumpukan. Dan kamu memilih untuk mengambil atau menaruh counter. Jika kamu tetap ingin mengambil kartu, giliranmu akan berlanjut dan kamu harus membalik kartu baru lagi. Segera setelah kamu menaruh counter ke kartu, permainan berlanjut ke pemain sebelah kirimu untuk menentukan pilihan mengambil atau menaruk counter.
+
+<-- Gambar --> Sebagai contoh, Eli membalik kartu 11 dan memutuskan untuk tidak ingin mengambilnya. Dia menaruh count ke atas kartu dan berkata, "No Thanks!" (Tidak terima kasih/Pass) Permainan berlanjut ke Alani (yang duduk di sebelah kirinya).
+Alani juga tidak ingin, jadi dia menaruh count ke atas kartu dan berlanjut ke Sherry <-- Gambar -->
+Sherry berkata, "Tidak terima Kasih" dan menaruh counter di atas kartu
+Dan sekarang giliran Eli kembali. Eli memutuskan untuk mengambil kartunya. Dia menaruh kartunya secara terbuka didepannya, menambahkan 3 counter di atas kartu ke tangannya, dan membuka kartu baru dari tumpukan kartu. <-- Gambar -->
+
+4. Ketika kamu tidak mempunyai counter tersisa, kamu harus mengambil kartu tersebut.
+5. Jika kamu mengambil kartu yang mempunyai nilai urut, hanya kartu dengan angka terendah dalam urutan tersebut yang akan dihitung. Urutan bisa terbuat paling sedikit 2 kartu. Ketika kamu mengambil kartu yang membentuk urutan, taruh menghadap terbuka kartu-kartu bersama dan buat saling menumpuk, tapi pastikan pemain lain masih bisa melihat angka dari tiap pojok kartu yang saling menumpuk tersebut.
+
+Sebagai contoh, jika kamu mengambil 13, 15, dan 16, kamu hanya menghitung 13 dan 15 ketika proses perhitungan poin (semenjak 15 adalah kartu terendah dari urutan 15 - 16), yang totalnya adalah 28 poin. Jika nanti kamu mengambil kartu 14, kamu hanya akan menghitung 14 (semenjak 13-14-15-16 adalah urutan). < -- Gambar -->
 
 
 # MEMENANGKAN PERMAINAN

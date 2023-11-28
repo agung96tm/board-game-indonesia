@@ -1,7 +1,7 @@
 No Thanks!
 ====================================================
 
-# TUJUAN PERMAINAN
+# Pendahuluan
 ----------------------------------------------------
 Ambil kartu, bayar untuk mengatakan "No Thanks (Tidak Terima Kasih/Pass)" atau ambil untuk mendapatkan skor paling sedikit.
 
@@ -12,59 +12,59 @@ Ambil kartu, bayar untuk mengatakan "No Thanks (Tidak Terima Kasih/Pass)" atau a
 
 # TUJUAN PERMAINAN 
 ----------------------------------------------------
-Untuk menghitung skor paling sedikit; para pemain menghitung skor setiap saat mereka mengambil kartu dan mengurangi skor untuk setiap counter/token/chip yang mereka pegang di akhir permainan.
+Menghitung skor paling sedikit; para pemain menghitung skor setiap saat mereka mengambil kartu dan mengurangi skor untuk setiap counter/token/chip yang mereka pegang di akhir permainan.
 
 
 # ISI
 ----------------------------------------------------
 * 22 Kartu, dari Angka 3 - 35 
-* 55 counter/token/chip
+* 55 counter (chip)
 
 
 # PERSIAPAN
 ----------------------------------------------------
 1. Kocok kartu dan taruh 9 kartu ke box tanpa melihatnya. Kartu tersebut tidak akan digunakan.
-2. Taruh sisa kartu, tertutup, untuk membentuk sebuah tumpukan.
-3. Berikan counter ke setiap pemain berdasarkan jumlah pemain. Untuk 3 - 5 Orang, berikan 11 counter; untuk 6 pemain, berikan 9 counter, untuk 7 pemain, berikan 7 counter. Kembalikan sisanya ke dalam box.
-4. Tips: Ide bagus untuk tetap menyembunyikan counter. Kebanyakan pemain akan mengepalkan/menyembunyikan counter-nya di tangan, tapi dimanapun kamu menyembunyikan-nya masih tetap berfungsi.
+2. Taruh sisa kartu secara tertutup, untuk membentuk sebuah tumpukan.
+3. Berikan chip ke setiap pemain berdasarkan jumlah pemain. Untuk 3 - 5 Pemain, berikan 11 chip; untuk 6 Pemain, berikan 9 chip, untuk 7 Pemain, berikan 7 chip. Kembalikan sisanya ke dalam box.
+4. Tips: Sebuah ide bagus untuk tetap menyembunyikan chip mu. Kebanyakan pemain akan mengepalkan/menyembunyikan chip-nya di tangan, tapi dimanapun kamu menyembunyikan-nya tetaplah tidak masalah.
 
 
 # CARA BERMAIN
 ----------------------------------------------------
 1. Jika kamu pemain paling tua, mulai permainan dengan:
-  a. Balikan kartu teratas dari tumpukan secara terbuka dan dan putuskan kamu ingin:
+  a. Balikan kartu teratas dari tumpukan secara terbuka dan putuskan kamu ingin:
     i. Ambil kartu dan taruh kartunya terbuka di depanmu (ini berarti kamu mengumpulkan poin dari kartu), atau
-    ii. Katakan "No Thanks!" (Tidak terima kasih/Pass) dan taruh satu counter punyamu di kartu tersebut sehingga kamu tidak harus mengambilnya.
+    ii. Katakan "No Thanks!" (Tidak Terima Kasih/Pass) dan taruh satu chip punyamu di atas kartu tersebut sehingga kamu tidak harus mengambilnya.
 
-  Setiap kartu memiliki sejumlah poin angka yang terlihat dikartunya (tapi harus diingat, poin itu buruk!). Counter bagus - setiapnya dapat membatalkan/mengurangi poin kartu di akhir permainan.
+  Setiap kartu memiliki sejumlah poin angka yang terlihat dikartunya (tapi harus diingat, poin itu buruk!). Chip bagus - setiapnya dapat mengurangi poin di akhir permainan.
 
-2. Jika kamu tidak mengambil kartu, pemain di sebelah kirimu harus membuat keputusan yang sama, ambil atau menaruh counter. Ini berlanjut sampai seorang pemain mengambil kartu, dan semua counter yang ada diatasnya. Kadang kala (umumnya dengan kartu dengan angka besar), akan berputar dan berputar - Kamu akan mendapatkan berkali-kali kesempatan untuk menaruh counter ke kartu sebelum kamu atau pemain lain yang mengambilnya. Ketika kamu mengambil kartu-nya, taruh kartunya terbuka didepanmu dan tambahkan counter dari kartu tersebut ke dalam counter milikmu.
-3. Setiap saat kamu mengambil sebuah kartu. Permainan diulang dengan membalikan kartu teratas dari tumpukan. Dan kamu memilih untuk mengambil atau menaruh counter. Jika kamu tetap ingin mengambil kartu, giliranmu akan berlanjut dan kamu harus membalik kartu baru lagi. Segera setelah kamu menaruh counter ke kartu, permainan berlanjut ke pemain sebelah kirimu untuk menentukan pilihan mengambil atau menaruk counter.
+2. Jika kamu tidak mengambil kartu, pemain di sebelah kirimu harus membuat keputusan yang sama, ambil atau menaruh sebuah chip. Ini berlanjut sampai seorang pemain mengambil kartu, dan semua chip yang ada diatasnya. Kadang kala (umumnya kartu dengan angka besar), akan berputar berkali-kali - Kamu akan mendapatkan berkali-kali kesempatan untuk menaruh chip ke kartu sebelum kamu atau pemain lain yang mengambilnya. Ketika kamu mengambil kartunya, taruh kartu tersebut terbuka didepanmu dan tambahkan chip dari kartu tersebut ke dalam chip milikmu.
+3. Setiap saat kamu mengambil sebuah kartu. Permainan diulang dengan membalikan kartu teratas dari tumpukan. Dan kamu memilih untuk mengambil atau menaruh chip. Jika kamu tetap ingin mengambil kartu, giliranmu akan berlanjut dan kamu harus membalik kartu baru lagi. Segera setelah kamu menaruh chip ke kartu, permainan berlanjut ke pemain sebelah kirimu untuk menentukan pilihan mengambil atau menaruh chip.
 
-<-- Gambar --> Sebagai contoh, Eli membalik kartu 11 dan memutuskan untuk tidak ingin mengambilnya. Dia menaruh count ke atas kartu dan berkata, "No Thanks!" (Tidak terima kasih/Pass) Permainan berlanjut ke Alani (yang duduk di sebelah kirinya).
-Alani juga tidak ingin, jadi dia menaruh count ke atas kartu dan berlanjut ke Sherry <-- Gambar -->
-Sherry berkata, "Tidak terima Kasih" dan menaruh counter di atas kartu
-Dan sekarang giliran Eli kembali. Eli memutuskan untuk mengambil kartunya. Dia menaruh kartunya secara terbuka didepannya, menambahkan 3 counter di atas kartu ke tangannya, dan membuka kartu baru dari tumpukan kartu. <-- Gambar -->
+<-- Gambar --> Sebagai contoh, Eli membalik kartu 11 dan memutuskan untuk tidak ingin mengambilnya. Dia menaruh chip ke atas kartu dan berkata, "No Thanks!" (Tidak Terima Kasih/Pass) Permainan berlanjut ke Alani (yang duduk di sebelah kirinya).
+Alani juga tidak ingin, jadi dia menaruh chip ke atas kartu dan berlanjut ke Sherry <-- Gambar -->
+Sherry berkata, "Tidak Terima Kasih/Pass" dan menaruh chip di atas kartu.
+Dan sekarang giliran Eli kembali. Eli memutuskan untuk mengambil kartunya. Dia menaruh kartunya secara terbuka didepannya, menambahkan 3 chip di atas kartu ke tangannya, dan membuka kartu baru dari tumpukan kartu. <-- Gambar -->
 
-4. Ketika kamu tidak mempunyai counter tersisa, kamu harus mengambil kartu tersebut.
-5. Jika kamu mengambil kartu yang mempunyai nilai urut, hanya kartu dengan angka terendah dalam urutan tersebut yang akan dihitung. Urutan bisa terbuat paling sedikit 2 kartu. Ketika kamu mengambil kartu yang membentuk urutan, taruh menghadap terbuka kartu-kartu bersama dan buat saling menumpuk, tapi pastikan pemain lain masih bisa melihat angka dari tiap pojok kartu yang saling menumpuk tersebut.
+4. Ketika kamu tidak mempunyai chip tersisa, kamu harus mengambil kartu tersebut.
+5. Jika kamu mengambil kartu yang mempunyai nilai urut, kartu dengan angka terendah dalam urutan tersebut yang akan dihitung. Urutan bisa terbuat paling sedikit 2 kartu. Ketika kamu mengambil kartu yang membentuk urutan, taruh menghadap terbuka kartu-kartu tersebut bersama dan buat saling menumpuk, tapi pastikan pemain lain masih bisa melihat angka dari tiap pojok kartu yang saling menumpuk tersebut.
 
-Sebagai contoh, jika kamu mengambil 13, 15, dan 16, kamu hanya menghitung 13 dan 15 ketika proses perhitungan poin (semenjak 15 adalah kartu terendah dari urutan 15 - 16), yang totalnya adalah 28 poin. Jika nanti kamu mengambil kartu 14, kamu hanya akan menghitung 14 (semenjak 13-14-15-16 adalah urutan). < -- Gambar -->
+Sebagai contoh, jika kamu mengambil 13, 15, dan 16, kamu hanya menghitung 13 dan 15 ketika proses perhitungan poin (15 adalah kartu terendah dari urutan 15 - 16), jadi totalnya adalah 28 poin. Jika nanti kamu mengambil kartu 14, kamu hanya akan menghitung 14 (13-14-15-16 adalah urutan). < -- Gambar -->
 
 
 # MEMENANGKAN PERMAINAN
 ----------------------------------------------------
-Permainan berakhir ketika tumpukan kartu habis dan tidak ada kartu tersisa untuk diambil. Tambahkan point ke semua kartu yang terlihat (hitung hanya kartu terendah dari sebuah urutan), lalu kurangi dengan sisa counter yang kamu miliki. Pemain yang totalnya paling sedikit adalah pemenang.
+Permainan berakhir ketika tumpukan kartu habis dan tidak ada kartu tersisa untuk diambil. Total poin semua kartu punyamu (hitung kartu terendah jika ada sebuah urutan), lalu kurangi dengan sisa chip yang kamu miliki. Pemain yang totalnya paling sedikit adalah pemenang.
 
 <-- Gambar --
-Di contoh, kamu mengambil kartu dan terhitung 3 + 7 + 12 + 15 + 25, totalnya adalah 62 point. Kurangi dengan 8 counter, dan skor akhirmu adalah 54 point.
+Di contoh, kamu mengambil kartu dan terhitung 3 + 7 + 12 + 15 + 25, totalnya adalah 62 poin. Kurangi dengan 8 chip, dan skor akhirmu adalah 54 point.
 
 
 # TIPS
 ----------------------------------------------------
-1. Ide bagus bila kamu mencoba menahan countermu - counter membantumu di skoring di akhir permainan dan menjauhkanmu dari mengambil kartu yang tidak kamu ingin ambil ketika kamu kehabisan counter.
-2. Jika kartu yang kamu inginkan dalam urutan adalah angka besar, kamu mungkin ingin membiarkannya berputar beberapa kali sebelum kamu mengambilnya, sehingga pemain lain menaruh counter ke kartu tersebut sebelum kamu mengambilnya. Bahkan jika pemain lain mengambilnya, mereka akan menambah banyak poin ke skor mereka (yang mana akan menolongmu).
-3. Perhatikan pemain mana yang memiliki sedikit counter - mereka mungkin akan terpaksa mengambil kartu yang kamu inginkan ketika mereka kehabisan counter.
+1. Ide bagus bila kamu mencoba menahan chip-mu - chip membantumu untuk skoring di akhir permainan dan menjauhkanmu dari mengambil kartu yang tidak kamu inginkan.
+2. Jika kartu yang kamu inginkan dalam urutan adalah angka besar, kamu mungkin ingin membiarkannya berputar beberapa kali sebelum kamu mengambilnya, sehingga pemain lain menaruh chip ke kartu tersebut sebelum kamu mengambilnya. Bahkan jika pemain lain mengambilnya, mereka akan menambah banyak poin ke skor mereka (yang mana akan menolongmu).
+3. Perhatikan pemain mana yang memiliki sedikit chip - mereka mungkin akan terpaksa mengambil kartu yang kamu inginkan ketika mereka kehabisan chip.
 
 
 # KREDIT

@@ -11,6 +11,7 @@ Board Game Rules Translated to Indonesian Language
 * [Hanamikoji (2013)](hanamikoji/README.md)
 * [Claim (2017)](claim/README.md)
 * [No Thanks! (2004)](no-thanks/README.md)
+* [Onitama (2004)](onitama/README.md)
 
 
 ## Contributors

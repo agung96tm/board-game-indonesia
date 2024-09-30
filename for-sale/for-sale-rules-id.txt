@@ -3,10 +3,11 @@ For Sale
 
 # Pendahuluan
 ----------------------------------------------------
-Dalam permainan melakukan tawar-menawar dan berbohong untuk mendapatkan properti dengan peringkat tertinggi, ini bukan berapa banyak kamu harus membayar properti, ini tentang berapa banyak kalian dapat menjual properti tersebut.
-Mengatur keuanganmu secara bijak selama tawar-menawar dan tahap akusisi properti, lalu dengan cermat (atau hanya menebak) rivalmu selama fase penjualan. Jadilah yang terkaya di akhir permainan.
+Dalam permainan, para pemain akan melakukan tawar-menawar untuk mendapatkan properti dengan nilai tertinggi. Catatan bahwa ini bukan tentang berapa banyak kamu harus membeli properti, ini tentang berapa banyak kalian dapat menjual properti tersebut.
+Mengatur keuanganmu secara bijak ketika tawar-menawar dan saat mendapatkan properti, lalu dengan cermat (atau hanya menebak) musuhmu selama fase penjualan. Jadilah yang terkaya di akhir permainan.
 
-Secara objektif, semua pemain mencoba untuk membeli properti berharga dengan harga termurah dan tahap selanjutnya adalah menjual properti tersebut dengan harga tertinggi. Siapapun yang menghasilkan uang terbanyak di akhir permainan adalah pemenang.
+Secara objektif, semua pemain mencoba untuk membeli properti berharga dengan harga termurah dan di tahap lain adalah menjual properti tersebut dengan harga tertinggi.
+Siapapun yang menghasilkan uang terbanyak di akhir permainan dialah pemenangnya.
 
 Pemain: 3 - 6 orang
 Waktu: 20 - 30 menit
@@ -25,12 +26,15 @@ Umur: 8 tahun keatas
 
 # Persiapan
 ---------------------------------------------------
-Pisahkan kartu berdasarkan tipe kartu (Properti dan Uang) dan kocok di setiap tumpukan. Taruh bersebelahan Kartu Uang. Kartu tersebut akan digunakan di tahap ke-dua permainan. Taruh Kartu Properti tertutup sebagai Tumpukan yang akan dimainkan.
+Pisahkan kartu berdasarkan tipe kartu (Properti dan Uang) dan kocok untuk tiap tumpukan. Taruh bersebelahan Kartu Uang. Kartu tersebut akan digunakan di tahap kedua permainan. Taruh tumpukan Kartu Properti yang akan dimainkan secara tertutup.
 
-Dengan 3-4 Pemain, berikan tiap pemain 2 $2000 Koin dan empat-belas $1000 Koin.
+Dengan 3-4 Pemain, berikan tiap pemain 2 $2000 Koin dan 14 $1000 Koin.
 Dengan 5-6 Pemain, berikan tiap pemain 2 $2000 Koin dan 10 $1000 Koin.
 
-Dengan 3 Pemain, keluarkan 3 kartu properti dan 6 kartu Uang dari permainan tanpa melihatnya. Dengan 4 Pemain, keluarkan Kartu 2 Properti dan 2 Uang. Kartu-kartu tersebut tidak digunakan dan bisa ditaruh kembali ke box.
+Dengan 3 Pemain, keluarkan 3 kartu properti dan 6 kartu Uang dari permainan tanpa melihatnya.
+Dengan 4 Pemain, keluarkan 2 Kartu Properti dan 2 kartu Uang.
+
+Kartu-kartu yang dikeluarkan tersebut tidak akan digunakan dan bisa ditaruh kembali ke kotak.
 
 
 
@@ -38,22 +42,22 @@ Dengan 3 Pemain, keluarkan 3 kartu properti dan 6 kartu Uang dari permainan tanp
 ---------------------------------------------------
 ## Tahap 1: Membeli Properti
 Memulai:
-Bukalah kartu properti sejumlah dengan pemain yang ada. Sebagai contoh, jika bermain dengan 4 pemain, bukalah 4 kartu properti.
-Semuanya kartu menghadap terbuka, kartu-kartu yang ada akan di akusisi oleh para pemain sehingga tidak ada yang tidak mendapatkan kartu.
-Setiap pemain dapat melakukan penawaran atau pass.
+Bukalah kartu properti sesuai dengan jumlah pemain yang ada. Sebagai contoh, jika bermain dengan 4 pemain, bukalah 4 kartu properti.
+Semuanya kartu menghadap terbuka, kartu-kartu tersebut akan digunakan untuk akusisi/diambil oleh para pemain sehingga tidak mungkin ada pemain yang tidak mendapatkan kartu.
+Setiap pemain dapat melakukan penawaran atau pass/lewat.
 
 Menawar:
-Pilih pemain awal untuk memulai dan taruh sejumlah koin. Permainan akan berlanjut searah jarum jam.
-Pemain selanjutnya menentukan apakah melakukan penawaran atau lewat. Jika penawaran, jumlah penawaran haruslah lebih besar dari penawar sebelumnya.
-Penawaran terus berlanjut hingga semua pemain memilih pass.
+Pilihlah pemain untuk memulai pertama dan taruh sejumlah koin (untuk melakukan penawaran). Permainan akan berlanjut searah jarum jam.
+Pemain selanjutnya menentukan apakah melakukan penawaran atau Pass. Jika Penawaran juga, maka koin penawaran haruslah lebih besar dari penawar sebelumnya.
+Penawaran terus berlanjut hingga semua pemain memilih Pass.
 
 Pass:
-Jika pemain pass, pemain akan mengambil properti tersisa dengan nilai terendah. Pemain juga mengambil setengah dari penawarannya (dibulatkan kebawah).
-Sebagai contoh, jika pemain sebelumnya melakukan penawaran $3000, dan akhirnya memutuskan untuk pass, pemain mengambil kembali uang penawarannya sejumlah $1000 ($3000/2 = $1500, dibulatkan kebawah menjadi $1000).
-Sisanya akan dikembalikan ke bank dan ditaruh diluar permainan. Jika semua pemain pass dan tersisa satu orang, sisa pemain tersebut mendapatkan properti dengan nilai tertinggi dan harus membayar penuh sejumlah penawaran yang dia lakukan.
+Jika pemain memilih pass, pemain akan mengambil properti tersisa dengan nilai terendah. Pemain juga mengambil setengah uang dari hasil penawarannya (dibulatkan kebawah).
+Sebagai contoh, jika pemain sebelumnya melakukan penawaran $3000, dan akhirnya memutuskan untuk Pass, pemain mengambil kembali uang penawarannya sejumlah $1000 ($3000/2 = $1500, dibulatkan kebawah menjadi $1000).
+Sisanya akan dikembalikan ke bank dan ditaruh diluar permainan. Jika semua pemain Pass dan tersisa satu orang, pemain tersebut mendapatkan properti dengan nilai tertinggi dan harus membayar penuh sejumlah penawaran yang dia lakukan.
 
-Catatan: Tidak perlu harus melakukan penawaran untuk mendapatkan properti dengan nilai terendah, cukup lakukan pass diawal sehingga tidak membayar apapun untuk mendapatkannya.
-Tips: Pastikan uangmu agar tidak ketahuan!
+Catatan: Tidak perlu harus melakukan penawaran untuk mendapatkan properti dengan nilai terendah, cukup lakukan Pass diawal sehingga tidak membayar apapun untuk mendapatkannya.
+Tips: Pastikan uangmu disembunyikan agar tidak ketahuan sisanya berapa!
 
 Properti yang sudah dibeli ditaruh tertutup di depan pemain yang mendapatkannya.
 Pemain yang mendapatkan properti dengan nilai tertinggi akan memulai permain lagi dengan membuka kartu properti dan mendapatkan giliran pertama melakukan penawaran atau pass.
@@ -62,14 +66,15 @@ Ketika semua properti terjual, Tahap 1 selesai dan koin yang tidak digunakan tet
 
 
 ## Tahap 2: Membeli Properti
-_wip_
+Waktunya untuk menjual kartu propertimu dan mendapatkan uang! Dalam Tahap ini, Kartu properti akan dijual untuk mendapatkan kartu Uang. Seperti tahap 1, jumlah kartu uang akan menghadap terbuka di hadapkan pemain. Setiap pemain mengambil satu kartu propertinya dan ditaruh tertutup dihadapan mereka.
+Setelah semua pemain sudah menaruh kartu properti miliknya maka permainan dimulai, semua pemain membuka membuka kartu propertinya secara bergantian. Pemain yang memainkan kartu properti dengan nilai tertinggi mengambil kartu uang paling tinggi. Pemain kedua yang memainkan kartu properti tertinggi selanjutnya mengambil kartu uang tertinggi, dan seterusnya.
+Kartu properti selanjutnya di singkirkan dalam permainan.
 
 
 
 # Akhir Permainan
 ---------------------------------------------------
-_wip_
-
+Permainan berakhir ketika semua pemain sudah menjual semua kartu properti mereka. Para pemain menghitung total Kartu Properti dan Sisa Koin, pemain dengan total terbanyak adalah pemenang! Jika seri selesaikan dengan melihat koin tersisa paling banyak.
 
 
 # Kredit
